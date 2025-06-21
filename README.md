@@ -1,13 +1,13 @@
 # Mehul Tyagi
 
-### Dermatologist | AI/ML Enthusiast | Lifelong Learner
+### Medicine | AI/ML Enthusiast | Lifelong Learner
 
 *"Learning at my own pace"*
 
 ---
 ## About Me
 
-I'm a dermatologist. Currently exploring the intersection of medicine and technology, with a focus on:
+I'm a student. Currently exploring the intersection of medicine and technology, with a focus on:
 
 -  **Neural Networks** - Understanding architectures and training methodologies
 -  **Model Fine-tuning** - Experimenting with various approaches (learning!)
