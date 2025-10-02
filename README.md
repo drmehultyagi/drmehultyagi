@@ -25,13 +25,9 @@ A dermatology-focused platform bridging medical expertise with AI innovation. Ch
 ```
 Experimenting with: PyTorch, Transformers, HuggingFace
 Exploring: Computer Vision
-Currently studying: Python
+Currently studying: Node.js, Flutter
 Goal: ?
 ```
-## Let's Connect!
-
-- [LinkedIn](https://linkedin.com/in/drmehultyagi)
-- Always open to collaborations and learning opportunities!
 
 ---
 From [drmehultyagi](https://github.com/drmehultyagi) 
