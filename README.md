@@ -1,6 +1,6 @@
 # Mehul Tyagi
 
-### Medicine | AI/ML Enthusiast | Lifelong Learner
+### Medicine | AI/ML | Lifelong Learner
 
 *"Learning at my own pace"*
 
@@ -34,4 +34,4 @@ Goal: ?
 - Always open to collaborations and learning opportunities!
 
 ---
-From [drmehultyagi](https://github.com/drmehultyagi) | Building the future of skin focused AI, one model at a time
+From [drmehultyagi](https://github.com/drmehultyagi) 
